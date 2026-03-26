@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT US</title>
+
+</head>
+
+<body>
+    <header>
+        <h1>ABOUT SPRINT-TRIBE</h1>
+
+        <nav>
+            <a href="./index.html">Home</a>
+            <a href="./about.html">About Us</a>
+            <a href="./products.html">Products</a>
+            <a href="./contact.html">Contact Us</a>
+            <a href="./feedback.html">Feedback</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Our Story</h2>
+        <p>Welcome to Sprint-Tribe, your number one destination to top quality sprinting gear and everything related to
+          sprinting. Sprint-Tribe was founded in 1994 by Thapelo Mokgantshane in the village of Ramotswa after noticing 
+          the struggle of locally talented young boys to afford gear to compete and take their game to the next level.
+        </p>
+
+        <h2>Our Mission</h2>
+        <p>Sprint-Tribe has a mission to 
+        </p>
+
+        <h2>Our Values</h2>
+        <ul>
+            <li><strong>Quality:</strong> We prioritize quality in every aspect of our production process, from sourcing
+                ingredients to packaging our products.</li>
+            <li><strong>Customer Satisfaction:</strong> Our customers are at the heart of everything we do, and we
+                strive to exceed their expectations with every sweet we create.</li>
+            <li><strong>Innovation:</strong> While we cherish our traditional recipes, we also embrace innovation and
+                new flavours to keep our offerings exciting and fresh.</li>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Telly Thabby Sweets Factory. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
