@@ -17,15 +17,17 @@
             <a href="./about.html">About Us</a>
             <a href="./products.html">Products</a>
             <a href="./contact.html">Contact Us</a>
-            <a href="./feedback.html">Feedback</a>
         </nav>
     </header>
 
     <section>
-        <h2>Our Story</h2>
+        <h2>Our Origin Story</h2>
         <p>Welcome to Sprint-Tribe, your number one destination to top quality sprinting gear and everything related to
           sprinting. Sprint-Tribe was founded in 1994 by Thapelo Mokgantshane in the village of Ramotswa after noticing 
           the struggle of locally talented young boys to afford gear to compete and take their game to the next level.
+          Founded in a small storeroom by an ambitious mind, Sprint-Tribe managed to sky rocket in success, achieving 
+          many accolades such as winning Best African sports brand in the year 2007 at the African Excellence awards which
+          were hosted at Rabat in Morocco.
         </p>
 
         <h2>Our Mission</h2>
@@ -33,10 +35,10 @@
         perfomance sprint gear
         </p>
 
-        <h2>Our Values</h2>
+        <h2>Our Principles</h2>
         <ul>
-            <li><strong>Quality:</strong> We prioritize quality in every aspect of our production process, from sourcing
-                ingredients to packaging our products.</li>
+            <li><em>Quality:</em> We prioritize quality over quantity as we believe that our clients deserve nothing
+                 but the best of equipment </li>
             <li><strong>Customer Satisfaction:</strong> Our customers are at the heart of everything we do, and we
                 strive to exceed their expectations with every sweet we create.</li>
             <li><strong>Innovation:</strong> While we cherish our traditional recipes, we also embrace innovation and
@@ -44,7 +46,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2026 Telly Thabby Sweets Factory. All rights reserved.</p>
+        <p>&copy; 2026 Sprint-Tribe. All rights reserved.</p>
     </footer>
 
 </body>
